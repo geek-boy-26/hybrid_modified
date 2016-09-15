@@ -1,0 +1,21 @@
+03/03/2016 06:14:25 devpinoyLogger Start
+03/03/2016 06:14:25 devpinoyLogger Properties Loaded. Testing Started
+03/03/2016 06:14:25 devpinoyLogger Initialize suite xlsx
+03/03/2016 06:14:25 devpinoyLogger A Suite--N
+03/03/2016 06:14:25 devpinoyLogger B Suite--N
+03/03/2016 06:14:25 devpinoyLogger C Suite--Y
+03/03/2016 06:14:25 devpinoyLogger ***Exceuting***C Suite
+03/03/2016 06:14:25 devpinoyLogger Login --N
+03/03/2016 06:14:25 devpinoyLogger Appointment_Creation--N
+03/03/2016 06:14:25 devpinoyLogger Clinical_Notes_Pre_Test--N
+03/03/2016 06:14:25 devpinoyLogger Clinical_Notes_History--N
+03/03/2016 06:14:25 devpinoyLogger Clinical_Notes_Investigate--N
+03/03/2016 06:14:25 devpinoyLogger Eye_Health--N
+03/03/2016 06:14:25 devpinoyLogger Spectacle_Rx--N
+03/03/2016 06:14:25 devpinoyLogger Contact_lens--Y
+03/03/2016 06:14:25 devpinoyLogger Exceution of test case   Contact_lens
+03/03/2016 06:14:26 devpinoyLogger openBrowser
+03/03/2016 06:14:26 devpinoyLogger Opening the browser
+03/03/2016 06:14:28 devpinoyLogger Pass
+03/03/2016 06:14:28 devpinoyLogger navigate
+03/03/2016 06:14:28 devpinoyLogger Navigating to URL

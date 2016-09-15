@@ -1,0 +1,8 @@
+com\qtpselenium\test\DriverScript.class
+com\qtpselenium\test\dummy.class
+com\qtpselenium\test\NewTest.class
+com\qtpselenium\test\Constants.class
+com\qtpselenium\xls\read\Xls_Reader.class
+com\qtpselenium\test\PreTest.class
+com\qtpselenium\test\keywords.class
+com\qtpselenium\test\keywords$1.class

@@ -1,0 +1,6 @@
+This is phase 2 where we would add selenium code to the script
+OR properties contains key which is to be kept in OBJECT column in excel
+keyword name in the excel sheet should be same as function in keywords.java file
+Object column would come from OR property file
+To create more than one appointment change the x path for the next appointment in Right click appointment
+at a time only one appointment would created as of now
